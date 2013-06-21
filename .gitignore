@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 *.pyc
 *.pyo
 *~
 database.db
-
-=======
 *.log
 *.pot
-*.pyc
 local_settings.py
->>>>>>> a0a8bba111077812a228f2836e6d4ee7db797520
